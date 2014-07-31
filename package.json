@@ -1,0 +1,40 @@
+{
+  "name": "memostate",
+  "version": "0.0.1",
+  "description": "HTML Page Element Attribute State Memor",
+  "homepage": "https://github.com/ear1grey/memostate",
+  "author": {
+    "name": "Rich Boakes",
+    "url": "http://boakes.org/"
+  },
+  "keywords": [
+    "html",
+    "localstorage",
+    "element",
+    "state",
+    "save",
+    "memory",
+    "memo",
+    "remember"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ear1grey/memostate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ear1grey/memostate/issues"
+  },
+  "licenses": [
+    {
+      "type": "Creative Commons Attribution-ShareAlike 4.0 International License",
+      "url": "http://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "main": "build/index.js",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-bump": "^0.1.10",
+    "gulp-jshint": "^1.8.2",
+    "gulp-uglify": "^0.3.1"
+  }
+}
